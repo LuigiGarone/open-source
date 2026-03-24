@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/logika-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset=".github/logika-light.png" />
-    <img alt="Logika.studio" src=".github/logika-dark.png" height="60" />
+    <img alt="Logika.studio" src=".github/logika-dark.png" height="140" />
   </picture>
 </p>
 
@@ -91,7 +91,7 @@ Bug trouvé ou nouveau template à proposer ? Les PR sont les bienvenues !
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/logika-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset=".github/logika-light.png" />
-    <img alt="Logika.studio" src=".github/logika-dark.png" height="36" />
+    <img alt="Logika.studio" src=".github/logika-dark.png" height="44" />
   </picture>
   <br/>
   <sub>Réalisé avec ❤️ par <a href="https://logika.studio">Logika.studio</a></sub>

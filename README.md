@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dev-templates/.github/logika-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="dev-templates/.github/logika-light.png" />
-    <img alt="Logika.studio" src="dev-templates/.github/logika-dark.png" height="70" />
+    <source media="(prefers-color-scheme: dark)" srcset=".github/logika-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset=".github/logika-light.png" />
+    <img alt="Logika.studio" src=".github/logika-dark.png" height="140" />
   </picture>
 </p>
 
@@ -93,6 +93,7 @@ Non devi usare la repo intera — **prendi solo i pezzi che ti servono**.
 open-source/
 ├── 📄 README.md                          ← sei qui
 ├── 📄 LICENSE                            ← MIT
+├── 🖼️ .github/                           ← asset (loghi Logika.studio)
 │
 └── 🧰 dev-templates/                    ← template riutilizzabili
     ├── 📄 README.md                      ← indice dei template
@@ -142,9 +143,9 @@ Consulta il file [LICENSE](./LICENSE) per i dettagli.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dev-templates/.github/logika-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="dev-templates/.github/logika-light.png" />
-    <img alt="Logika.studio" src="dev-templates/.github/logika-dark.png" height="36" />
+    <source media="(prefers-color-scheme: dark)" srcset=".github/logika-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset=".github/logika-light.png" />
+    <img alt="Logika.studio" src=".github/logika-dark.png" height="44" />
   </picture>
   <br/>
   <sub>Realizzato con ❤️ da <a href="https://logika.studio">Luigi Garone</a> — <a href="https://logika.studio">Logika.studio</a></sub>
